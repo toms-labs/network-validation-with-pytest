@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
-.python-version
 __pycache__/
 *.py[cod]
 *$py.class
@@ -48,3 +47,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# pyenv
+.python-version
